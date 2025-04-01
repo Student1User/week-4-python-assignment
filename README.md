@@ -110,5 +110,5 @@ Want to improve the program further?
 This assignment helped us understand **file handling** and **exception handling** in Python. Mastering these concepts is essential for building **robust applications** that deal with files efficiently.
 
 ---
-📌 **PLP Week 4 Python Assignment** | **Author:** Your Name  | **Date:** 2025
+📌 **PLP Week 4 Python Assignment** | **Author:** Emmanuel M Jesse  | **01st April :** 2025
 
