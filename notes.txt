@@ -1,1 +1,3 @@
-
+Hello, world!
+Python is awesome.
+Let's learn file handling.
